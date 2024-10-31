@@ -1,0 +1,77 @@
+.normaltext {font-weight: normal }
+.minortext { color: #757575; font-weight: normal }
+.dataheader { color: #336699; font-weight: bold }
+.headerheader { color: #000000; font-weight: bold }
+.headerfast { color: #008000; font-weight: bold }
+.headernofast { color: #ff5050; font-weight: bold }
+.scriptureheader { color: #000000; font-weight: bold }
+.troparionheader { color: #000000; font-weight: bold }
+.troparionseparator { background-color: #3333cc }
+
+
+.pdataheader {
+	word-spacing: 0;
+	text-indent: 0;
+	line-height: 120%;
+	margin-left: 0px;
+	margin-right: 0;
+	margin-top:1.5em;
+}
+.pheaderheader {
+	word-spacing: 0;
+	text-indent: 0;
+	line-height: 120%;
+	margin-left: 0;
+	margin-right: 0px;
+	margin-top:1.5em;
+}
+.pscriptureheader {
+	word-spacing: 0;
+	text-indent: 0;
+	line-height: 120%;
+	margin-left: 0;
+	margin-right: 0;
+	margin-top:1.5em;
+}
+.ptroparionheader {
+	word-spacing: 0;
+	text-indent: 0;
+	line-height: 120%;
+	margin-left: 0px;
+	margin-right: 0;
+	margin-top:1.5em;
+}
+
+.ocButton {
+	font-family: Arial !important;
+	color: #656565 !important;
+	font-size: 12pt !important;
+	padding: 5px 15px 5px 15px !important;
+	text-decoration: none !important;
+	background-color:transparent !important;
+	border: none !important;
+	position: relative !important;
+    left: -12px !important;
+}
+
+.ocButton:hover {
+	background-color:transparent;
+	color:#8c8c8c !important;
+}
+.ocButton:active {
+	position:relative;
+	top:1pt;
+}
+
+.octhButton {
+	vertical-align:text-bottom !important;
+	height: 16px !important;
+}
+
+.ocButtonsBar {
+	position: relative !important;
+    top: -0px !important;
+    text-align: left;
+}
+
+</style>
